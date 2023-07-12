@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Hi%20there!%20it's%20Minji%20here&fontSize=30&fontAlignY=40)
+
 ### Hi there 👋 it's Minji here 🔆
 
 <!--
