@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 it's Minji here ❕
 
 <!--
 **Lightieey/Lightieey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
